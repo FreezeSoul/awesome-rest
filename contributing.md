@@ -2,12 +2,13 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- Do not add your REST API to the list. This is not a registry of all possible REST APIs, but a list of reources and tools to build and use REST APIs effectively 
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
 - A link back to this list from yours, so users can discover more lists, would be appreciated.
 - Make an individual pull request for each suggestion.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Titles should be capitalized.
 - Use the following format: `[List Name](link)`
 - If you have a comment about the link, add it after a dash, start it with a capital letter, and end it with a full stop. Avoid starting your comment with an article like "A", "The".
 - Link additions should be added to the bottom of the relevant category.
